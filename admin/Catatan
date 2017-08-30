@@ -1,0 +1,55 @@
+
+
+
+
+
+master 
+
+.........................
+data user				OK
+data kategori           OK
+data product            OK
+
+
+
+
+
+
+
+proses POS...           OKE
+
+
+orders_temp      save ke orders_temp
+orders_detail    
+orders
+
+----page pos --> PAGE CETAK
+
+desain logo
+
+
+
+..........................
+
+Nomor Urut
+Nomor Order
+Tanggal Order
+Nama Kasir
+Qty
+Subtotal
+Total  Lihat
+
+ 
+
+higt cart
+
+
+ID PETUGAS MASUK KE DETAIL ORDER
+
+
+validation input number Jquery
+
+vaidasi input . nominal
+laporan barang
+filter per barang
+total
